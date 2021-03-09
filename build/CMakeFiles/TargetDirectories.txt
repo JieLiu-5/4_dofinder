@@ -1,0 +1,3 @@
+/mnt/c/Users/LIUJI/Dropbox/4_dofinder/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/LIUJI/Dropbox/4_dofinder/build/CMakeFiles/dofinder.dir
+/mnt/c/Users/LIUJI/Dropbox/4_dofinder/build/CMakeFiles/edit_cache.dir

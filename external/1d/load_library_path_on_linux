@@ -1,0 +1,5 @@
+LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/dv/jliu/Localdisk/deal.ii_d10/lib
+LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/wsl_jie/dealii_920/lib
+LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/wsl_jie/dealii_851/lib
+export LD_LIBRARY_PATH
+

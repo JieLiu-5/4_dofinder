@@ -1,0 +1,3 @@
+LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/dv/jliu/Localdisk/deal.ii_d10/lib
+export LD_LIBRARY_PATH
+

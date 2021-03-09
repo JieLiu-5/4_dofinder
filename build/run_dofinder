@@ -1,0 +1,2 @@
+#!/bin/bashrc
+make; ./dofinder 0 0 2 2 2 0 0 1e-9 16

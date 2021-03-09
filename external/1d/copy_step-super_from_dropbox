@@ -1,0 +1,3 @@
+#!/bin/bashrc
+cp /mnt/c/Users/LIUJI/Dropbox/step-super/step-super ./
+cp /mnt/c/Users/LIUJI/Dropbox/step-super/execute_step-super ./
